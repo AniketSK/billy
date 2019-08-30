@@ -1,5 +1,5 @@
 # billy बिल्ली
-A project help me teach good programming practises to anyone who wants to learn. It's for restauraunt bill sharing between friends that takes tax etc into account.
+A project to help me teach good programming practises to anyone who wants to learn. It's for restauraunt bill sharing between friends that takes tax etc into account.
 
 So go ahead and write this as an app or website or whatever and follow just one principle to begin with:
 
